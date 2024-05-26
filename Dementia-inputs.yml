@@ -1,0 +1,96 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/dementia-p13-psychoses---primary.py
+inputModule3:
+  class: File
+  path: python/early-dementia-p13---primary.py
+inputModule4:
+  class: File
+  path: python/dementia-p13-alzheimer---primary.py
+inputModule5:
+  class: File
+  path: python/dementia-p13-picks---primary.py
+inputModule6:
+  class: File
+  path: python/dementia-p13-degen---primary.py
+inputModule7:
+  class: File
+  path: python/organic-dementia-p13---primary.py
+inputModule8:
+  class: File
+  path: python/paranoid-dementia-p13---primary.py
+inputModule9:
+  class: File
+  path: python/dementia-p13-condition---primary.py
+inputModule10:
+  class: File
+  path: python/dementia-p13-uncomplicated---primary.py
+inputModule11:
+  class: File
+  path: python/mixed-dementia-p13---primary.py
+inputModule12:
+  class: File
+  path: python/dementia-p13-features---primary.py
+inputModule13:
+  class: File
+  path: python/vascular-dementia-p13---primary.py
+inputModule14:
+  class: File
+  path: python/alcoholic-dementia-p13---primary.py
+inputModule15:
+  class: File
+  path: python/dementia-p13-dementium---primary.py
+inputModule16:
+  class: File
+  path: python/dementia-p13-onset---primary.py
+inputModule17:
+  class: File
+  path: python/dementia-p13-delirium---primary.py
+inputModule18:
+  class: File
+  path: python/dementia-p13-psychosis---primary.py
+inputModule19:
+  class: File
+  path: python/dementia-p13-presenile---primary.py
+inputModule20:
+  class: File
+  path: python/dementia-p13-reye's---primary.py
+inputModule21:
+  class: File
+  path: python/dementia-p13-unspecified---primary.py
+inputModule22:
+  class: File
+  path: python/cerebral-dementia-p13---primary.py
+inputModule23:
+  class: File
+  path: python/dementia-p13-brain---primary.py
+inputModule24:
+  class: File
+  path: python/other-dementia-p13---primary.py
+inputModule25:
+  class: File
+  path: python/arteriosclerotic-dementia-p13---primary.py
+inputModule26:
+  class: File
+  path: python/dementia-p13-parkinsons---primary.py
+inputModule27:
+  class: File
+  path: python/dementia-p13---primary.py
+inputModule28:
+  class: File
+  path: python/dementia-p13-huntington---primary.py
+inputModule29:
+  class: File
+  path: python/dementia-p13-jakobcreutzfeldt---primary.py
+inputModule30:
+  class: File
+  path: python/dementia-p13-depression---primary.py
+inputModule31:
+  class: File
+  path: python/cortical-dementia-p13---primary.py
+inputModule32:
+  class: File
+  path: python/output-cases.py
